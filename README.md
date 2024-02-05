@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JadenStrudwick/JadenStrudwick/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
